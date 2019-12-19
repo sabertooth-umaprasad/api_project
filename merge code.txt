@@ -1,4 +1,5 @@
 New merge code text
+not good
 good
 bad
 git
